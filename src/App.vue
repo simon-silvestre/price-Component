@@ -288,7 +288,7 @@ export default {
 
   @media screen and (max-width: 540px) {
     .card {
-      margin: 0 25px;
+      margin: 0 25px 100px 0;
       .top {
         padding: 60px 20px 35px 20px;
       }
